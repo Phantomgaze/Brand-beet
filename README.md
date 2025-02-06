@@ -1,2 +1,2 @@
 # brandbeet
-This is for youtube tutorial
+Live demo: https://phantomgaze.github.io/Brand-beet/
